@@ -11,12 +11,11 @@ class Dog
   end
 
   #setter method
-
   def name=(new_name)
     @name = new_name
   end
 
-  #attribute methods
+  #attribute method
   def bark
     puts "Woof!"
   end
