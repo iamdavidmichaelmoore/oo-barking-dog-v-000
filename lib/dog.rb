@@ -1,8 +1,7 @@
-# Your code goes here!
 class Dog
-
+  #initializes the Dog instance that can be named	
   def initialize(name)
-    @name = new
+    @name = name
   end
 
   #getter methods
