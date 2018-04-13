@@ -16,6 +16,6 @@ class Dog
 
   #attribute method
   def bark
-    puts "Woof!"
+    puts "woof!"
   end
 end
