@@ -1,5 +1,5 @@
 class Dog
-  #initializes the Dog instance that can be named	
+  #initializes the Dog instance that can be named
   def initialize(name)
     @name = name
   end
